@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I’m Akin 👋
+
+Mechanical Engineering & Computer Science student interested in  
+software engineering, robotics, and aerospace systems.
+
+I build projects that connect code with real-world mechanical systems.
