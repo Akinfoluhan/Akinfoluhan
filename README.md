@@ -43,7 +43,7 @@ Git · GitHub · SolidWorks · MATLAB · LabVIEW · LTSpice
 - 🧩 **Python Sudoku Solver**  
   Backtracking algorithm with pruning, CLI interface, and visualization
 
-- 🗂️ **Spring Boot Task Manager API (WIP) **
+- 🗂️ **Spring Boot Task Manager API (WIP)**
   RESTful backend with CRUD operations, authentication, and layered architecture
 
 - ⚙️ **Mechanical Design Projects**  
